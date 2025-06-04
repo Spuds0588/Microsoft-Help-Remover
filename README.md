@@ -1,7 +1,5 @@
 # Microsoft "Need Help?" Remover Chrome Extension
 
-![Extension Icon Placeholder](icons/icon128.png) <!-- Replace with a better screenshot/logo if you have one -->
-
 A simple Chrome extension to remove the "Need help?" floating widget (specifically the element with ID `m365-support-central-container`) from web pages where the URL contains "microsoft".
 
 **Chrome Web Store Link:** [Link to be added once published]
